@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GADS LEAD</string>
+    <string name="gads_banner">GADS Banner</string>
+    <string name="leader_board">LEADERBOARD</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="learning_leaders">Learning Leaders</string>
+    <string name="skill_leaders">Skill IQ Leaders</string>
+    <string name="submit">Submit</string>
+    <string name="confirmation_message">Are you sure</string>
+    <string name="yes">Yes</string>
+    <string name="successful">Submission Successful</string>
+    <string name="unsuccessful">Submission Not Successful</string>
+    <string name="question_mark">\ ?</string>
+</resources>
