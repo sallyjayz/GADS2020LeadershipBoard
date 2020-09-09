@@ -16,4 +16,4 @@ This project will help you understand:
 
 *The project submission will be done through the App*
 
-[!images](https://drive.google.com/drive/u/0/folders/1GvW7z-vIOkQnlTIArQ2QqtztAhmt9O31/Screenshot_1)
+[!images](https://drive.google.com/drive/u/0/folders/1GvW7z-vIOkQnlTIArQ2QqtztAhmt9O31/Screenshot_1.png)
