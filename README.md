@@ -16,4 +16,10 @@ This project will help you understand:
 
 *The project submission will be done through the App*
 
-![splashscreen](https://github.com/sallyjayz/GADS2020LeadershipBoard/tree/master/screenshots/Screenshot_1.png)
+![splashscreen](/screenshots/1_SplashScreen.png) 
+![learningleader](/screenshots/2_LearningLeaders.png)
+![skillleader](/screenshots/3_SkillLeaders.png)
+![submissionform](/screenshots/4_ProjectSubmission.png)
+![confirmationdialog](/screenshots/5_ConfirmationDialog.png)
+![successdialog](/screenshots/6_SuccessDialog.png)
+![unsuccessdialog](/screenshots/7_UnsuccessDialog.png)
