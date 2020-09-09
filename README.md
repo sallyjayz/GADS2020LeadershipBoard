@@ -7,11 +7,11 @@ The mobile App will display **Top 20 learners in the Learning Leaders’ categor
 in the Skill IQ Leaders’ category**.
 
 This project will help you understand:
-a. Multi-Activity Project
-b. View pager
-c. Customizing Toolbar
-d. RecyclerView
-e. Making Network Request
-f. Working with Google Form and many more...
+1. Multi-Activity Project
+2. View pager
+3. Customizing Toolbar
+4. RecyclerView
+5. Making Network Request
+6. Working with Google Form and many more...
 
 *The project submission will be done through the App*
