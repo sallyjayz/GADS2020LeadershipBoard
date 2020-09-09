@@ -16,4 +16,4 @@ This project will help you understand:
 
 *The project submission will be done through the App*
 
-![splashScreen](Screenshot_1.png)
+![splashScreen](screenshot/Screenshot_1.png)
