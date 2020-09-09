@@ -16,4 +16,4 @@ This project will help you understand:
 
 *The project submission will be done through the App*
 
-![splashScreen](screenshot/Screenshot_1.png)
+![splashScreen](https://github.com/sallyjayz/GADS2020LeadershipBoard/tree/master/screenshots/Screenshot_1.png)
