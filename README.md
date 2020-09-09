@@ -15,3 +15,5 @@ This project will help you understand:
 6. Working with Google Form and many more...
 
 *The project submission will be done through the App*
+
+![splashScreen](Screenshot_1.png)
