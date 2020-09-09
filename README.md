@@ -15,5 +15,3 @@ This project will help you understand:
 6. Working with Google Form and many more...
 
 *The project submission will be done through the App*
-
-[!Images](https://drive.google.com/file/d/1HDtgmdJU4IswTgidZV89wQ4mJE0uBHjc/view?usp=sharing)
